@@ -1,0 +1,6 @@
+{
+  "name": "Knots & Co. — Handmade Crochet",
+  "description": "Giving the ordinary a personality through handmade crochet everyday companions, charms, flowers, and custom gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
